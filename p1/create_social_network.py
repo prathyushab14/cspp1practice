@@ -27,4 +27,3 @@ def main():
     print(create_social_network(string))
 if __name__ == "__main__":
     main()
-s
